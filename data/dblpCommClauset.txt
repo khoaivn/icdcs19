@@ -1,0 +1,6 @@
+# Input: tmp2.adj
+# Nodes: 0    Edges: 0
+# Algoritm: Clauset-Newman-Moore
+# Modularity: 0.000000
+# Communities: 0
+# NId	CommunityId
